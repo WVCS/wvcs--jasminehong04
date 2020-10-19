@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+ <html>
+   <head>
+          <style>
+          
+             h1 {
+             color:white;
+            width: 1000px;
+             text-align:center;
+             font:
+           } 
+           body {
+             background-color: pink;
+           }
+           
+          ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              position: fixed;
+              background-color: #D3D3D3;
+              width: 100%;
+              top: 0;
+              left: 0;
+  
+            }
+           li {
+               display: inline;
+               float: left;
+             width: 200px;
+             padding: 5px;
+             margin: 5px;}
+
+             li a:hover {
+               background-color: white; 
+              font-size: 10px;                
+          }   
+           
+       </style>
+    </head>
+   
+<body>
+     
+    <ul>
+     <li><a href="default.asp">Home</a></li>
+     <li><a href="google.com">Google</a></li>
+     <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME">Westview</a></li>
+     <li><a href="about.asp">about</a></li>
+   </ul>
+
+     <br>
+     <br>
+     <h1>Jasmine's Website</h1>      
+     <img src= "Untitled drawing.jpg" width="500" height="450">
+     <iframe src="https://scratch.mit.edu/projects/426225813/embed" allowtransparency="true" width="480" height="450" frameborder="0" scrolling="no" allowfullscreen></iframe>  
+     <a href= "test.html" > See my test page </a>
+     <a href = "https://studio.code.org/projects/applab/N1U0lp9l_CvVIcHZegZoTwu43IPK6qLiCYNRFKcDbFM"> app</a>
+     </p>
+  </body>
+
+</html> 
+
 
