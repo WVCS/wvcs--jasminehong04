@@ -23,8 +23,8 @@
 
              li a:hover {
                background-color: white; 
-              font-size: 100px;                
-          }   
+              font-size: 100px;
+              text-decoration : none;          }   
            
        </style>
     </head>
