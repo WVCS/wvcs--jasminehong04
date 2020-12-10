@@ -11,6 +11,7 @@
               background-color: #D3D3D3;
               width: 100%;
               top: 0;
+              text-decoration: none;
               left: 0;
   
             }
@@ -21,7 +22,8 @@
              padding: 5px;
              margin: 5px;}
 
-             li a:hover {
+
+           li a:hover {
                background-color: white; 
               font-size: 100px;
               text-decoration : none;          }   
