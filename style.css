@@ -6,9 +6,9 @@
           ul {
               list-style-type: none;
               margin: 0;
-              padding: 50px;
+              padding: 150px;
               position: fixed;
-              background-color: #11111;
+              background-color: #000000;
               width: 100%;
               top: 0;
               text-decoration: none;
