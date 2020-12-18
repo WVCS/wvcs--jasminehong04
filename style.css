@@ -5,12 +5,14 @@
 /* Nav Bar style */
      </style>
      <head>
-
+<\head>
+          <style>
                      ul {
               list-style-type: none;
               margin: 0;
               padding: 0;
               position: fixed;
+              background-color: #D3D3D3;
               width: 100%;
               top: 0;
               left: 0;
@@ -25,7 +27,7 @@
 
              li a:hover {
                background-color: white; 
-              font-size: 50px;                
+              font-size: 100px;                
           }   
           
              h1 {
@@ -33,7 +35,11 @@
             width: 1000px;
              text-align:center;
              font:
-          ul {
+           } 
+           body {
+             background-color: pink;
+           }
+           
             
            
        </style>
