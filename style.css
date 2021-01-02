@@ -1,15 +1,17 @@
  body {
-             background-color: ivory;
-           }
+         background-color: ivory;
+     }
+h1{
+ color: black;
+ text- align: center;
            
-/* Nav Bar style */
-     </style>
-     <head>
-          <style>
-                    ul {
+/* ----------------Nav Bar style---------------- */
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  width: 100%
+  left: 0;
   overflow: hidden;
   background-color: #fafafa;
 }
@@ -32,11 +34,5 @@ li a:hover {
 }
             
            
-       </style>
-    </head>
-   
-
-
-</html> 
-
+      
 ©
